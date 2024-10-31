@@ -1,7 +1,7 @@
 Ini adalah Tugas AP3 & Praktikum AP3
+By: Muhammad Tubagus Farrasandi
 
 Using:
 - C
-- C++
-- Golang
-- Assembly (Optional)
+
+https://github.com/FaYeest
